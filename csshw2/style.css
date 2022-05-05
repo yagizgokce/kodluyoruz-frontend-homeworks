@@ -1,0 +1,26 @@
+.box1{
+    margin: 0 0;
+}
+.container{
+    margin: 0 65px;
+    height: 90px;
+    width: 1250px;
+}
+.bg-grey{
+    background-color: #EEEEEE;
+}
+.bg-green{
+    background-color: #7EE5DA;
+}
+.bg-greener{
+    background-color: #70CCC2;
+}
+.bg-darkgreen{
+    background-color: #62B3AA;
+}
+.box3{
+    
+    height: 85px;
+    float: left;
+    margin-right: 3px;
+}
